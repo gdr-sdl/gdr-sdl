@@ -21,6 +21,8 @@
 
 ![Version](https://img.shields.io/github/v/release/gdr-gpl/gdr-gpl)
 
+Ce dépôt contient les sources du site [https://gdr-sdl.github.io/gdr-sdl/](https://gdr-sdl.github.io/gdr-sdl/).
+
 Site web moderne et collaboratif pour le [GDR SciLog](https://mygdr.hosted.lip6.fr/accueilGDR/7/10) (Groupement de Recherche Sciences du Logiciel) - unité [CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) de la communauté scientifique française des Sciences du Logiciel.
 
 ## Sommaire
