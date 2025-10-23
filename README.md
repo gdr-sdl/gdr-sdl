@@ -21,22 +21,26 @@
 
 ![Version](https://img.shields.io/github/v/release/gdr-gpl/gdr-gpl)
 
-Site web moderne et collaboratif pour le GDR SciLog (Groupement de Recherche Sciences du Logiciel) - unité CNRS Sciences informatiques de la communauté scientifique française du génie logiciel et de la programmation.
+Site web moderne et collaboratif pour le [GDR SciLog](https://mygdr.hosted.lip6.fr/accueilGDR/7/10) (Groupement de Recherche Sciences du Logiciel) - unité [CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) de la communauté scientifique française des Sciences du Logiciel.
 
 ## Sommaire
 
-1. [Équipe](#équipe)
-2. [Architecture technique](#architecture-technique)
-3. [Gestion de projet et Qualité](#gestion-de-projet-et-qualité)
-   - [Versions et Releases](#versions-et-releases)
-   - [Documentation](#documentation)
-   - [ODJs et Comptes-rendus](#odjs-et-comptes-rendus)
-   - [Product Backlog](#product-backlog)
-4. [Contexte général](#contexte-général)
-5. [Chiffrage du projet](#chiffrage-du-projet)
-6. [Tests](#tests)
-7. [Scripts](#scripts)
-   - [install.sh](#installsh)
+- [GDR SciLog - Site Web](#gdr-scilog---site-web)
+  - [Sommaire](#sommaire)
+  - [Équipe](#équipe)
+  - [Architecture technique](#architecture-technique)
+    - [Technologies utilisées](#technologies-utilisées)
+    - [Thème personnalisé](#thème-personnalisé)
+  - [Gestion de projet et Qualité](#gestion-de-projet-et-qualité)
+    - [Versions et Releases](#versions-et-releases)
+    - [Documentation](#documentation)
+    - [ODJs et Comptes-rendus](#odjs-et-comptes-rendus)
+    - [Product Backlog](#product-backlog)
+  - [Contexte général](#contexte-général)
+      - [Site GDR SciLog](#site-gdr-scilog)
+  - [Chiffrage du projet](#chiffrage-du-projet)
+  - [Tests](#tests)
+  - [Contact](#contact)
 
 ## Équipe
 
