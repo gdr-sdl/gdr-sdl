@@ -76,7 +76,7 @@ Le site utilise un thème personnalisé développé spécifiquement pour ce proj
 Chaque sprint (deux semaines) nous livrons une nouvelle version de notre application (release).
 Nous utilisons pour cela les fonctionnalités de GitHub pour les [Releases](https://docs.github.com/en/repositories/releasing-projects-on-github).
 
-- Version courante : [v1.0.0](https://github.com/gdr-sdl/gdr-sdl/releases/tag/v1.0.0)
+- Version courante : [v2.0.0](https://github.com/gdr-sdl/gdr-sdl/releases/tag/V.2)
 
 ### Documentation
 - Lien vers la doc technique : [Documentation technique](https://github.com/gdr-sdl/gdr-sdl/wiki/Documentation-Technique--%E2%80%90-GDR%E2%80%90GPL)
