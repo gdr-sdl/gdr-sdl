@@ -90,7 +90,7 @@ Liste des ODJs et leurs CRs :
 |--------|---------|----------------|---------------|---------|---------|
 | Sprint 0 | 01/09 - 05/09/2025 | [ODJ 03-09-2025](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/R%C3%A9unions/Ordre%20du%20jour%20n%C2%B01%20SAE%20S5.01.pdf) | [CR 03-09-2025](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/R%C3%A9unions/Compte%20rendu%20n%C2%B01%20SAE%20S5.01.pdf) | [v0.0.0](https://github.com/gdr-gpl/gdr-gpl/releases) | Terminé |
 | Sprint 1 | 08/09 - 19/09/2025 | [ODJ 08-09-2025](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/R%C3%A9unions/Ordre%20du%20jour%20n%C2%B02%20SAE%20S5.01.pdf) | [CR 08-09-2025](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/R%C3%A9unions/Compte%20rendu%20n%C2%B02%20SAE%20S5.01.pdf) | [v1.0.0](https://github.com/gdr-gpl/gdr-gpl/releases) | Terminé |
-| Sprint 2 | 22/09 - 03/10/2025 | Sprint en cours | À venir | À venir | En cours |
+| Sprint 2 | 22/09 - 03/10/2025 | Sprint en cours | À venir | [v2.0.0](https://github.com/gdr-gpl/gdr-gpl/releases) | Terminé |
 
 ### Product Backlog
 
