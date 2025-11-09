@@ -40,8 +40,8 @@ Site web moderne et collaboratif pour le [GDR SciLog](https://mygdr.hosted.lip6.
     - [Product Backlog](#product-backlog)
   - [Contexte général](#contexte-général)
       - [Site GDR SciLog](#site-gdr-scilog)
+  - [Tests exploratoires et unitaires](#tests)
   - [Chiffrage du projet](#chiffrage-du-projet)
-  - [Tests](#tests)
   - [Contact](#contact)
 
 ## Équipe
@@ -140,22 +140,33 @@ L'emploi de GitHub Actions garantira un déploiement automatisé, tout en inclua
 
 Également le site respectera la charte graphique existante et toutes les contraintes imposées.
 
-#### Site GDR SciLog 
-[Site actuel](https://gdr-gpl.cnrs.fr/) 
+#### Accès rapide aux anciens sites GDR-GPL
+
+[Site WordPress actuellement utilisé](https://gdr-gpl.cnrs.fr/) 
+
 [Site du CNRS](https://mygdr.hosted.lip6.fr/accueilGDR/7/10)
-
-## Chiffrage du projet
-
-Le chiffrage détaillé du projet est disponible ici :
-[Chiffrage du projet (PDF)](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/Chiffrage.pdf)
 
 ## Tests
 
 **Note importante** : Sur demande explicite du client (Jean-Michel Bruel), aucun plan de tests formel n'a été mis en place pour ce projet. Le client a indiqué que les tests automatisés n'étaient pas nécessaires dans le contexte de cette refonte de site web statique.
 
-La qualité est néanmoins assurée par :
+Cependant, au cours du développement, nous avons finalement décidé d'ajouter des tests unitaires pour faciliter la maintenance et alléger le poids des tests exploratoires manuels.
+
+### Tests exploratoires
+- [Cahier de Test - Sprint 1](https://github.com/gdr-sdl/gdr-sdl/wiki/Cahier-de-Test-%E2%80%90-Sprint-1)
+- [Cahier de Test - Sprint 2](https://github.com/gdr-sdl/gdr-sdl/wiki/Cahier-de-Test-%E2%80%90-Sprint-2)
+
+### Tests unitaires
+- [Cahier de Test Unitaire - Sprint 2](https://github.com/gdr-sdl/gdr-sdl/wiki/Cahier-de-Test-Unitaire-%E2%80%90-Sprint-2)
+
+La qualité est également assurée par :
 - Validation manuelle
 - Code review sur les PR
+
+## Chiffrage du projet
+
+Le chiffrage détaillé du projet est disponible ici :
+[Chiffrage du projet (PDF)](https://github.com/gdr-gpl/gdr-gpl/blob/dev/Documents/Chiffrage.pdf)
 
 ## Contact
 
